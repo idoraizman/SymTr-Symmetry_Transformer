@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Lightning logs & TensorBoard logs
+lightning_logs/
+logs/
+
+# Model checkpoints
+checkpoints/
+
+# Optuna / HPO DBs
+*.sqlite
+
+# System / editor
+.DS_Store
+
+# Egg info
+symtr.egg-info/

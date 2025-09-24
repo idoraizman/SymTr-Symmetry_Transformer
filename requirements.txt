@@ -1,0 +1,11 @@
+numpy
+matplotlib
+opencv-python
+torch
+torchvision
+scikit-learn
+pytorch-lightning
+optuna
+optunahub
+pandas
+shapely

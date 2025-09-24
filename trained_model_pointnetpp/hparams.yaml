@@ -1,0 +1,13 @@
+backbone_model: pointnetpp
+conf_loss_weight: 0.1
+dataset_path: pointNetpp_embeddings.npz
+direction_loss_weight: 5.0
+hidden_dim: 128
+input_dim: 2
+learning_rate: 0.0003742221410860518
+nheads: 4
+no_attn: false
+num_decoder_layers: 2
+num_encoder_layers: 2
+num_preds: 3
+output_dim: 4
